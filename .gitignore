@@ -4,6 +4,8 @@
 *.pyc
 *.pyo
 env/
+.env/
+__pycache__/
 venv/
 .venv/
 env*
