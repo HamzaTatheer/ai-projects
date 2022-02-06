@@ -1,6 +1,9 @@
-1. source ./.env/bin/activate
-2. pip install -r requirements.txt
+1. venv .env
+2. source ./.env/bin/activate
+3. pip install -r requirements.txt
+4. Now use the program such as with flask run
 
 
-Upon Installing New Libraries and saving (Dont leave Virtual Enviroment in step 1)
+Upon Installing New Libraries and Saving (Dont leave Virtual Enviroment in step 2)
 pip freeze > requirements.txt
+
